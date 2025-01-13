@@ -55,7 +55,7 @@ if (isset($_POST['submit'])) {
         /* Tambahkan style untuk tampilan */
         body {
             font-family: 'Arial', sans-serif;
-            background-image: url('background.jpg'); 
+            background-image: url('background3.jpg'); 
             background-size: cover;
             background-position: center center;
             display: flex;
